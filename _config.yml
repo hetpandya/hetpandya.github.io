@@ -2,12 +2,8 @@ title: Het Pandya
 description: >- 
   Hi I am Het, passionate about taking dives into the ocean of Machine Learning, explore and solve real world problems with Computer Vision and Natural Language Processing.
 
-image_path: /images
 image: /images/about-2.jpg
 
 url: https://hetpandya.github.io/
-github_username:  hetpandya
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+keywords: het,pandya,het pandya,machine learning engineer,data scientist

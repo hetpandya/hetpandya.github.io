@@ -5,8 +5,19 @@
 <head>
    <!--- basic page needs
    ================================================== -->
-   	<meta charset="utf-8">
-	<title>Het Pandya</title>
+   <title>{{ site.title }}</title>
+
+   	<meta property="og:image" content="{{ site.image }}">
+	<meta charset="utf-8">
+	<meta content="{{ site.description }}" name="description">
+	<meta content="{{ site.description }}" property="og:description">
+	<meta name="twitter:description" content=" {{ site.description }}">
+	
+	<meta name="keywords" content="{{ site.keywords }}">
+	<meta property="og:title" content="{{ site.title }}" />
+	<meta name="twitter:title" content="{{ site.title }}">
+
+	<meta name="twitter:image" content=" {{ site.image }}">
 	
    <!-- mobile specific metas
    ================================================== -->
