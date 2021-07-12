@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-seo-tag
+
 title: Het Pandya
 description: Hi I am Het, passionate about taking dives into the ocean of Machine Learning, explore and solve real world problems with Computer Vision and Natural Language Processing.
 image: ./images/about-2.jpg
@@ -9,6 +12,3 @@ social:
     - https://www.facebook.com/TheHetPandya
     - https://www.linkedin.com/in/het-pandya
     - https://github.com/hetpandya
-
-plugins:
-  - jekyll-seo-tag
